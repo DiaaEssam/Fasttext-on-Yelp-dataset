@@ -1,4 +1,4 @@
-# fasttext-on-yelp-dataset.ipynb
+# fasttext-on-yelp-dataset
 
 ## Overview
 This Jupyter notebook explores the use of FastText models on the Yelp dataset for text analysis. It includes text preprocessing steps, loading pre-trained FastText word embeddings, and training a FastText model using the Yelp dataset.
